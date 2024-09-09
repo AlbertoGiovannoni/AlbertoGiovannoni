@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m a graduate in Computer Engineering from the University of Florence, currently pursuing my Master’s in Computer Engineering with a focus on Big Data and Distributed Systems.<br>🔍 I’m passionate about data-driven solutions and distributed architectures.<br>🌱 Currently exploring topics in cloud computing and data engineering.<br>🚀 Always interested to learn and collaborate on innovative projects. <br>
+👋 Hi there! I’m Alberto Giovannoni and I have a degree in Computer Engineering from the University of Florence, currently pursuing my Master’s in Computer Engineering with a focus on Big Data and Distributed Systems.<br>🔍 I’m passionate about data-driven solutions and distributed architectures.<br>🌱 Currently exploring topics in cloud computing and data engineering.<br>🚀 Always interested to learn and collaborate on innovative projects. <br>
 
 
 # 💻 Tech Stack:
