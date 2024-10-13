@@ -9,9 +9,9 @@
 - [Managing complexity of data models and performance in broker-based Internet/Web of Things architectures](https://www.sciencedirect.com/science/article/pii/S2542660523001579)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AlbertoGiovannoni&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AlbertoGiovannoni&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoGiovannoni&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AlbertoGiovannoni&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AlbertoGiovannoni&theme=gotham&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoGiovannoni&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
